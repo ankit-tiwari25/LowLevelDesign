@@ -1,0 +1,9 @@
+Single Responsibility Principle
+
+A class should only have one responsibility.
+
+Issue : Invoice class has multiple responsibilities like, save to DB, printInvoice.
+
+In future there can be multiple new requirements like save to mongoDB, etc.
+
+It's better to have a single responsibilty of a class, method or a block of code.
