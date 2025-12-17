@@ -1,5 +1,6 @@
+package SOLID.SRP.solution;
 
-
+import SOLID.SRP.solution.*;
 public class InvoicePrinter{
     private Invoice invoice;
 
